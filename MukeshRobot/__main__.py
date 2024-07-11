@@ -97,7 +97,7 @@ buttons = [
         InlineKeyboardButton(text="• ᴀʙᴏᴜᴛ •", callback_data="mukesh_"),
     ],
     [
-        InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇ •", url=f"https://t.me/SHIVANSH474"),
+        InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇ •", url=f"https://t.me/racists_update"),
         InlineKeyboardButton(text="• ꜱᴜᴘᴘᴏʀᴛ •", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
@@ -109,7 +109,7 @@ buttons = [
 
 roy = [
     [
-        InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇ •", url=f"https://t.me/SHIVANSH474"),
+        InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇ •", url=f"https://t.me/racists_support"),
         InlineKeyboardButton(text="• ꜱᴜᴘᴘᴏʀᴛ •", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
@@ -124,30 +124,30 @@ HELP_STRINGS = f"""
 ❍ *{BOT_NAME}  ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ ᴀʙᴏᴜᴛ sᴘᴇᴄɪғɪᴄs ᴄᴏᴍᴍᴀɴᴅ*"""
 
 ABHI = [
-"https://telegra.ph/file/f19e32b1b5b515956b402.jpg",
-"https://telegra.ph/file/1d4c6826797fb36ea5b92.jpg",
-"https://telegra.ph/file/8c9296b3ec2a367e159e9.jpg",
-"https://telegra.ph/file/129ccbaa0c0b05477a3f7.jpg",
-"https://telegra.ph/file/9e9c427b50a359b428ae2.jpg",
-"https://telegra.ph/file/4a1ea9ab5b3d2b9f9ac65.jpg",
-"https://telegra.ph/file/e1da13730ffaff4d82aef.jpg",
-"https://telegra.ph/file/f8334227993b76fd2e5af.jpg",
-"https://telegra.ph/file/3b9208b7966104c19ec85.jpg",
-"https://telegra.ph/file/6f7be044a44d25a04d381.jpg",     
+"https://telegra.ph/file/9aa3d2a63311b117ab1f6.jpg",
+"https://telegra.ph/file/e7ca1d80222baf161c0eb.jpg",
+"https://telegra.ph/file/1817750999ed8ab0eea80.jpg",
+"https://telegra.ph/file/0794f0a85b50374102a2f.jpg",
+"https://telegra.ph/file/c1e85f7c7ce8d67357175.jpg",
+"https://telegra.ph/file/30c50eb2b7d4d4c2f190c.jpg",
+"https://telegra.ph/file/4d5ea7a35af5bbbc33583.jpg",
+"https://telegra.ph/file/e7f74eb2f18a74fac82e9.jpg",
+"https://telegra.ph/file/e7ca1d80222baf161c0eb.jpg",
+"https://telegra.ph/file/63637fa9d8a821d151871.jpg",     
 
 ]
 
 NYKAA = [
-"https://telegra.ph/file/f19e32b1b5b515956b402.jpg",
-"https://telegra.ph/file/1d4c6826797fb36ea5b92.jpg",
-"https://telegra.ph/file/8c9296b3ec2a367e159e9.jpg",
-"https://telegra.ph/file/129ccbaa0c0b05477a3f7.jpg",
-"https://telegra.ph/file/9e9c427b50a359b428ae2.jpg",
-"https://telegra.ph/file/4a1ea9ab5b3d2b9f9ac65.jpg",
-"https://telegra.ph/file/e1da13730ffaff4d82aef.jpg",
-"https://telegra.ph/file/f8334227993b76fd2e5af.jpg",
-"https://telegra.ph/file/3b9208b7966104c19ec85.jpg",
-"https://telegra.ph/file/6f7be044a44d25a04d381.jpg",    
+"https://telegra.ph/file/9aa3d2a63311b117ab1f6.jpg",
+"https://telegra.ph/file/251999eea7ccbb53a2a63.jpg",
+"https://telegra.ph/file/76e1ec82463f4480adee0.jpg",
+"https://telegra.ph/file/a7b8bcd83b970efc1e7d7.jpg",
+"https://telegra.ph/file/c16cfb72a4cf39df15f3b.jpg",
+"https://telegra.ph/file/b3385cdc989079c3cda81.jpg",
+"https://telegra.ph/file/4c69476c8211191b0df98.jpg",
+"https://telegra.ph/file/4af601dc805e5b94ec4f6.jpg",
+"https://telegra.ph/file/1b22381ccefd3349dbf76.jpg",
+"https://telegra.ph/file/8b82f3ccb9072edc169bd.jpg",    
 ]
 
 
